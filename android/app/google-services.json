@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20727253777",
+    "firebase_url": "https://warship-survival.firebaseio.com",
+    "project_id": "warship-survival",
+    "storage_bucket": "warship-survival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20727253777:android:d651d6eb8d66dcc01cdab0",
+        "android_client_info": {
+          "package_name": "com.lucas.warship_survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20727253777-mngth2utn8fqpbivba7ennk4vj44i9a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8xxzLKq1EKaypNx3lwbzt4mGFZ7w0Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20727253777-mngth2utn8fqpbivba7ennk4vj44i9a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
