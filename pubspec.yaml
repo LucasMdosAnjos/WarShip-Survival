@@ -33,7 +33,7 @@ dependencies:
   flare_flutter:  
   percent_indicator:  
   google_fonts:
-  shared_preferences:    
+  shared_preferences:     
   admob_flutter:
   auto_size_text:
   flutter_rating_bar:
